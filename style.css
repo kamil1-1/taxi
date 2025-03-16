@@ -1,7 +1,10 @@
-.taxi{
-    max-width: 500px;
-    height: auto;
+.taxi {
+    width: 100vw;    
+    height: 50vh;  
+    object-fit: cover;  
+    display: block; 
 }
+
 
 
 body{
