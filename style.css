@@ -1,0 +1,11 @@
+.taxi{
+    max-width: 500px;
+    height: auto;
+}
+
+
+body{
+    background-image: url("cool-background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
